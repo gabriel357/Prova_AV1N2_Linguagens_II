@@ -1,1 +1,3 @@
-Resposta da Primeira Questão – Criada
+Resposta da Primeira Questão – Respondida
+
+A interface do usuário se comunica em segundo plano com o serviço,logo após o serviço se comunica com o back-end solicitando que os dados do serviço sejam salvos no cache, o que permite a utilização desses dados offline.
